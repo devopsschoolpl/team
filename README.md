@@ -1,2 +1,0 @@
-# team
-#maciej_sap
