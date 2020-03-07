@@ -1,16 +1,28 @@
+
 # team
 
+test
+test
+test 
+git 
+
+Kasia add changes.
+
+
+Alex was here and added something more!
 
 miloszko +
 
 Kasia add changes.
 
 
-Jakub_Now tu był.
+# team
+
+diana
 
 some text added by Bart
 Kasia add changes.
 Pawel
 
-WSZYSCY NA POKŁAD!
 
+WSZYSCY NA POKŁAD!
